@@ -12,4 +12,4 @@ Development tools include:
 - PostgreSQL 🐘
 
 # Reference: 
-See Moodle [Assignment Requirements](https://courses.ms.wits.ac.za/moodle/pluginfile.php/585742/mod_resource/content/1/MC_DBF_Assignment_Topics%20%281%29.pdf) for more details.
+See Moodle [Assignment Details](https://courses.ms.wits.ac.za/moodle/pluginfile.php/584615/mod_resource/content/1/MC_DBF_Assignment_Details%20%281%29.pdf) and [Assignment Topics](https://courses.ms.wits.ac.za/moodle/pluginfile.php/585742/mod_resource/content/1/MC_DBF_Assignment_Topics%20%281%29.pdf) for more details.
